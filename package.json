@@ -1,0 +1,22 @@
+{
+  "name": "riverlevel",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benwoodard/riverlevel.git"
+  },
+  "author": "Ben Woodard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benwoodard/riverlevel/issues"
+  },
+  "homepage": "https://github.com/benwoodard/riverlevel",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
